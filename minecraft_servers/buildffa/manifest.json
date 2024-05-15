@@ -1,40 +1,21 @@
 {
-  "server_name": "onthepixel",
-  "nice_name": "OnThePixel Network",
-  "direct_ip": "play.onthepixel.net",
+  "server_name": "BuildFFA",
+  "nice_name": "BuildFFA By OTP",
+  "direct_ip": "play.BuildFFA.net",
   "server_wildcards": [
-    "%.onthepixel.net"
+    "%.BuildFFA.net"
   ],
   "supported_languages": [
     "de",
     "en"
   ],
   "social": {
-    "web": "https://onthepixel.net",
+    "web": "https://buildffa.net",
     "instagram": "onthepixel_net",
     "youtube": "https://www.youtube.com/@thebestminecraftserver",
     "tiktok": "onthepixel",
     "discord": "https://discord.gg/Dpx3eK9t3z",
-    "twitter": "onthepixelnet",
-    "web_support": "https://onthepixel.net/support"
-  },
-  "gamemodes": {
-    "hideandseek": {
-      "name": "Hide and Seek",
-      "command": "/hideandseek"
-    },
-    "bedwards":{
-      "name": "BedWars",
-      "command": "/bedwars"
-    },
-    "buildffa":{
-      "name": "BuildFFA",
-      "command": "/buildffa"
-    },
-    "parkour":{
-      "name": "Parkour",
-      "command": "/parkour"
-    }
+    "twitter": "onthepixelnet"
   },
   "discord": {
     "server_id": 1051287687233015841,
